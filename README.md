@@ -14,7 +14,7 @@ Você pode encontrar os originais em:
 
 ## Índice
 
-- Fundamentos da Comunicação
+- [Fundamentos da Comunicação](aulas/fundamentos-da-comunicacao.md)
 - Comunicação verbal e não verbal
 - Barreiras e ruídos
 - Comunicação interpessoal e empática
