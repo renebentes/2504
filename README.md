@@ -16,7 +16,6 @@ Você pode encontrar os originais em:
 
 - [Fundamentos da Comunicação](aulas/fundamentos-da-comunicacao.md)
 - [Classificações de Comunicação](aulas/classificacoes-de-comunicacao.md)
-- [Comunicação verbal e não verbal](aulas/comunicação-verbal-e-nao-verbal.md)
 - Barreiras e ruídos
 - Comunicação interpessoal e empática
 - Comunicação eficaz
