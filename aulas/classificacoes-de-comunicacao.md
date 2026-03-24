@@ -18,7 +18,7 @@
 - Garante histórico e clareza;
 - Deve ser objetiva, bem estrutura e sem ambiguidades.
 
-## Comunicação VIsual
+## Comunicação Visual
 
 - Diagramas, fluxogramas, wireframes e dashboards;
 - Facilita o entendimento de sistemas, processos e dados;
