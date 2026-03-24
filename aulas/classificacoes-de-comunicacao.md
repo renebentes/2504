@@ -34,3 +34,10 @@ Por incluir **expressões faciais**, **gestos**, **postura**, e **tom emocional*
 ### Comunicação Integrada
 
 A união entre a comunicação verbal e não verbal garante uma comunicação eficaz, alinhando o que você diz com o que está transmitindo. Além disso, incoerências entre as duas podem gerar **ruídos** e **más interpretações**.
+
+## Como evoluir?
+
+- Faça pausas e articule bem as palavras;
+- Observer postura e expressões durante reuniões;
+- Use vídeo sempre que possível;
+- Peça feedbacks.
